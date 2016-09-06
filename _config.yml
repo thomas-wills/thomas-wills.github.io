@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thomas-wills.github.io
+title: "Website" - The Blog of Thomas Wills
+email: thomas.wills.tw@gmail.com
+author: Thomas Wills
+description: My musings
+paginate: 5
+google_analytics: 
